@@ -1,0 +1,4 @@
+Algoritmo sin titulo
+Escribir "Hola Mundo";
+
+FinAlgoritmo
